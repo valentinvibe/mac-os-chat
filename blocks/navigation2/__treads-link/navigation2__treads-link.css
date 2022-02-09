@@ -1,0 +1,11 @@
+.navigation2__treads-link {
+    color: #B5B5B5;
+    text-decoration: none;
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    /* margin-left: 11px; */
+    display: flex;
+}

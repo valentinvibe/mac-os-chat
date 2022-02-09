@@ -1,0 +1,9 @@
+.navigation1__service-dot {
+    position: absolute;
+    left: -4px;
+    top: 40%;
+    width: 8px;
+    height: 8px;
+    background: grey;
+    border-radius: 50%;
+}

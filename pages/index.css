@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+@import url(../blocks/page/page.css);
+
+/* Navigation1 */
+@import url(../blocks/navigation1/navigation1.css);
+@import url(../blocks/navigation1/__dots/navigation1__dots.css);
+@import url(../blocks/navigation1/__dot/navigation1__dot.css);
+@import url(../blocks/navigation1/__dot/_color/navigation1__dot_color_green.css);
+@import url(../blocks/navigation1/__dot/_color/navigation1__dot_color_red.css);
+@import url(../blocks/navigation1/__dot/_color/navigation1__dot_color_yellow.css);
+@import url(../blocks/navigation1/__services/navigation1__services.css);
+@import url(../blocks/navigation1/__service/navigation1__service.css);
+@import url(../blocks/navigation1/__service-add/navigation1__service-add.css);
+@import url(../blocks/navigation1/__service/_type/navigation1__service_type_active.css);
+@import url(../blocks/navigation1/__service-dot/navigation1__service-dot.css);
+
+/* Navigation2 */
+@import url(../blocks/navigation2/navigation2.css);
+@import url(../blocks/navigation2/__list/navigation2__list.css);
+@import url(../blocks/navigation2/__settings/navigation2__settings.css);
+@import url(../blocks/navigation2/__treads/navigation2__treads.css);
+@import url(../blocks/navigation2/__treads-icon/navigation__treads-icon.css);
+@import url(../blocks/navigation2/__treads-link/navigation2__treads-link.css);
+@import url(../blocks/navigation2/__treads-link/_type/navigation2__treads-link_type_active.css);
+@import url(../blocks/navigation2/__chanels/navigation2__chanels.css);
+@import url(../blocks/navigation2/__chanel/_type/navigation2__chanel_active.css);
+@import url(../blocks/navigation2/__chanels-title/navigation2__chanels-title.css);
+@import url(../blocks/navigation2/__chanels-count/navigation__chanels-count.css);
+@import url(../blocks/navigation2/__chanel/navigation2__chanel.css);
+
+@import url(../blocks/navigation2/__contact/navigation2__contact.css);
+@import url(../blocks/navigation2/__status/navigation2__status.css);
+@import url(../blocks/navigation2/__status/_type/navigation2__status_online.css);
+@import url(../blocks/navigation2/__status/_type/navigation2__status_offline.css);
+@import url(../blocks/navigation2/__avatar/navigation2__avatar.css);
+@import url(../blocks/navigation2/__contact-name/navigation2__contact-name.css);

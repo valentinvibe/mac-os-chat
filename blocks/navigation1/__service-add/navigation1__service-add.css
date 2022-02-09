@@ -1,0 +1,25 @@
+.navigation1__service-add {
+    margin-left: 14px;
+    width: 42px;
+    height: 42px;
+    background-color: grey;
+    border-radius: 50%;
+    justify-self: flex-end;
+    position: relative;
+    opacity: .2;
+    transition: opacity .4s;
+}
+
+.navigation1__service-add::after {
+    content: '+';
+    position: absolute;
+    top: 22%;
+    left: 34%;
+    font-size: 24px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.navigation1__service-add:hover {
+    opacity: .8;
+}

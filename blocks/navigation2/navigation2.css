@@ -1,0 +1,8 @@
+.navigation2 {
+    position: absolute;
+    top: 0;
+    left: 75px;
+    width: 261px;
+    height: 100vh;
+    background: linear-gradient(0deg, rgba(43,43,43,1) 0%, rgba(77,77,77,1) 100%);
+}

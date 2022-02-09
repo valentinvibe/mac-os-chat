@@ -1,0 +1,8 @@
+.navigation2__contact {
+    display: flex;
+    align-items: center;
+    margin: 11px 0 0;
+    padding: 0;
+    height: 33px;
+    text-decoration: none;
+}
