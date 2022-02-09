@@ -4,10 +4,10 @@
     height: 42px;
     background-color: grey;
     border-radius: 50%;
-    justify-self: flex-end;
     position: relative;
     opacity: .2;
     transition: opacity .4s;
+    margin: auto auto 15px;
 }
 
 .navigation1__service-add::after {

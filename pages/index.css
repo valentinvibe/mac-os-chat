@@ -27,7 +27,7 @@
 @import url(../blocks/navigation2/__chanels-title/navigation2__chanels-title.css);
 @import url(../blocks/navigation2/__chanels-count/navigation__chanels-count.css);
 @import url(../blocks/navigation2/__chanel/navigation2__chanel.css);
-
+@import url(../blocks/navigation2/__sidebar-heading/navigation2__sidebar-heading.css);
 @import url(../blocks/navigation2/__contact/navigation2__contact.css);
 @import url(../blocks/navigation2/__status/navigation2__status.css);
 @import url(../blocks/navigation2/__status/_type/navigation2__status_online.css);

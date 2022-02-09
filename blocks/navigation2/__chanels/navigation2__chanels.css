@@ -1,7 +1,6 @@
 .navigation2__chanels {
-    width: 214px;
-    margin: 0 auto 14px 24px;
+    /* width: 214px; */
+    margin: 0 24px 14px 24px;
     list-style: none;
-    padding: 0;
-    
+    padding: 0;    
 }
