@@ -1,0 +1,10 @@
+.sidebar-portfolio__title {
+    font-family: 'Lato';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: 0px;
+    text-align: left;
+    margin: 0 6px 0 0;
+}

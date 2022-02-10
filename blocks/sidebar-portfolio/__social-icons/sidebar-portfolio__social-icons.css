@@ -1,0 +1,6 @@
+.sidebar-portfolio__social-icons {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 20px auto 20px 15px;
+}

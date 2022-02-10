@@ -1,8 +1,19 @@
 .page {
+    background-image: url(../../images/page-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top left;
     margin: 0;
     padding: 0;
     width: 100%;
     display: flex;
     flex-flow: row nowrap;
     height: 100vh;
+}
+
+.sidebar-portfolio__title-container {
+    display: flex;
+    padding: 0;
+    margin: 14px 6px 4px 15px;
+    align-items: center;
 }

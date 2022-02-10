@@ -1,0 +1,18 @@
+.sidebar-portfolio__item {
+    background-color: #E8E8EB;;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    margin-right: 10px;
+    opacity: 1;
+    transition: opacity .4s;
+}
+
+.sidebar-portfolio__item:nth-of-type(4n) {
+    margin-right: 0;
+}
+
+.sidebar-portfolio__item:hover {
+    opacity: .7;
+}

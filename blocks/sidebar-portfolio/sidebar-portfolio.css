@@ -1,0 +1,5 @@
+.sidebar-portfolio {
+    margin-left: auto;
+    width: 15%;
+    background: linear-gradient(90deg, rgba(154,154,154,.8) 21%, rgb(185, 185, 185) 100%);
+}

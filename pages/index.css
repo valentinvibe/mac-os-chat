@@ -34,3 +34,18 @@
 @import url(../blocks/navigation2/__status/_type/navigation2__status_offline.css);
 @import url(../blocks/navigation2/__avatar/navigation2__avatar.css);
 @import url(../blocks/navigation2/__contact-name/navigation2__contact-name.css);
+
+/* Sidebar User Portfolio */
+@import url(../blocks/sidebar-portfolio/sidebar-portfolio.css);
+@import url(../blocks/sidebar-portfolio/__avatar/sidebar-portfolio__avatar.css);
+@import url(../blocks/sidebar-portfolio/__title/sidebar-portfolio__title.css);
+@import url(../blocks/sidebar-portfolio/__description/sidebar-portfolio__description.css);
+@import url(../blocks/sidebar-portfolio/__profile-label/sibebar-portfolio__profile-label.css);
+@import url(../blocks/sidebar-portfolio/__item/sidebar-portfolio__item.css);
+@import url(../blocks/sidebar-portfolio/__social-link/sidebar-portfolio__social-link.css);
+@import url(../blocks/sidebar-portfolio/__social-icons/sidebar-portfolio__social-icons.css);
+@import url(../blocks/sidebar-portfolio/__social-icon/sidebar-portfolio__social-icon.css);
+@import url(../blocks/sidebar-portfolio/__actions/sidebar-portfolio__actions.css);
+@import url(../blocks/sidebar-portfolio/__user-info/sidebar-portfolio__user-info.css);
+@import url(../blocks/sidebar-portfolio/__user-info-item/sidebar-portfolio__user-info-item.css);
+@import url(../blocks/sidebar-portfolio/__profile-field/sibebar-portfolio__profile-field.css);
