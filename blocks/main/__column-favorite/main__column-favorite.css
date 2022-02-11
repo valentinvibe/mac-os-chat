@@ -1,0 +1,7 @@
+.main__column-favorite {
+    
+}
+
+.main__column-favorite:hover {
+    fill: brown;
+}

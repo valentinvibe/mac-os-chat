@@ -1,0 +1,27 @@
+.main__more {
+    position: relative;
+    background: #fff;
+    width: 30px;
+    height: 30px;
+    color: white;
+    border-radius: 50%; 
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.main__more:after {
+    content: '•••';
+    position: absolute;
+    top: 50%;
+    left: 47%;
+    transform: translate(-50%, -50%) rotate(90deg);
+    font-size: 14px; 
+    letter-spacing: 1px;
+    margin-top: 2px;
+    color: black;
+    opacity: .3;
+}
+
+.main__more:hover {
+    background: lightgrey;
+}

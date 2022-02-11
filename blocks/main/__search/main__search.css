@@ -1,0 +1,20 @@
+.main__search {
+    font-family: 'Lato';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #8D8D8D;
+    width: 50%;
+    border: 0.5px solid rgba(0, 0, 0, 0.24);
+    box-sizing: border-box;
+    border-radius: 10px;
+    padding-left: 17px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-image: url(../../../images/search.svg);
+    background-repeat: no-repeat;
+    background-position: 95% 50%;
+}

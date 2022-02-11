@@ -1,0 +1,8 @@
+.main__chanel-users-pic {
+    background-image: url(../../../images/chanelUserPic.svg);
+    width: 11px;
+    height: 15px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: auto;
+}

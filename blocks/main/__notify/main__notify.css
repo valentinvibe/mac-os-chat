@@ -1,0 +1,24 @@
+.main__notify {
+    width: 15px;
+    height: 16px;
+    margin: auto 0 auto 23px;
+    position: relative;
+    background-image: url(../../../images/notify.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 1;
+}
+
+.main__notify::after {
+    content: "";
+    position: absolute;
+    font-size: 14px;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: red;
+    top: -4px;
+    right: -2px;
+    color: rebeccapurple;
+    opacity: 1;
+}

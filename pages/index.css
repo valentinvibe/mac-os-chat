@@ -35,6 +35,21 @@
 @import url(../blocks/navigation2/__avatar/navigation2__avatar.css);
 @import url(../blocks/navigation2/__contact-name/navigation2__contact-name.css);
 
+/* Main */
+@import url(../blocks/main/main.css);
+@import url(../blocks/main/__header/main__header.css);
+@import url(../blocks/main/__columns/main__columns.css);
+@import url(../blocks/main/__column/main__column.css);
+@import url(../blocks/main/__column-name/main__column-name.css);
+@import url(../blocks/main/__column-favorite/main__column-favorite.css);
+@import url(../blocks/main/__chanel-users/main__chanel-users.css);
+@import url(../blocks/main/__chanel-users-pic/main__chanel-users-pic.css);
+@import url(../blocks/main/__search/main__search.css);
+@import url(../blocks/main/__notify/main__notify.css);
+
+@import url(../blocks/main/__more/main__more.css);
+
+
 /* Sidebar User Portfolio */
 @import url(../blocks/sidebar-portfolio/sidebar-portfolio.css);
 @import url(../blocks/sidebar-portfolio/__avatar/sidebar-portfolio__avatar.css);
