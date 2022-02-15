@@ -1,4 +1,5 @@
 .dialog__post {
     margin: 21px auto 15px 25px;
     display: flex;
+    padding-right: 10px;
 }
