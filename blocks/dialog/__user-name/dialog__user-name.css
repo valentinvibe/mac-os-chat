@@ -1,0 +1,12 @@
+.dialog__user-name {
+    font-family: 'Lato';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin: 0 8px 0 0;
+    text-decoration: none;
+    color: #000;
+}

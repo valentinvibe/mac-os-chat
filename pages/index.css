@@ -46,8 +46,28 @@
 @import url(../blocks/main/__chanel-users-pic/main__chanel-users-pic.css);
 @import url(../blocks/main/__search/main__search.css);
 @import url(../blocks/main/__notify/main__notify.css);
-
 @import url(../blocks/main/__more/main__more.css);
+
+/* Main Post Message */
+@import url(../blocks/dialog/dialog.css);
+@import url(../blocks/dialog/__post/dialog__post.css);
+@import url(../blocks/dialog/__avatar/dialog__avatar.css);
+@import url(../blocks/dialog/__avatar-image/dialog__avatar-image.css);
+@import url(../blocks/dialog/__post/dialog__post.css);
+@import url(../blocks/dialog/__header/dialog__header.css);
+@import url(../blocks/dialog/__user-name/dialog__user-name.css);
+@import url(../blocks/dialog/__timestamp/dialog__timestamp.css);
+@import url(../blocks/dialog/__body/dialog__body.css);
+@import url(../blocks/dialog/__user-tag-message/dialog__user-tag-message.css);
+@import url(../blocks/dialog/__filter-by-day/dialog__filter-by-day.css);
+@import url(../blocks/dialog/__filter-text/dialog__filter-text.css);
+@import url(../blocks/dialog/__post-text/dialog__post-text.css);
+@import url(../blocks/dialog/__image-container/dialog__image-container.css);
+@import url(../blocks/dialog/__image-meta-text/dialog__image-meta-text.css);
+@import url(../blocks/dialog/__image/dialog__image.css);
+@import url(../blocks/dialog/__image-photo/dialog__image-photo.css);
+@import url(../blocks/dialog/__image-likes/dialog__image-likes.css);
+
 
 
 /* Sidebar User Portfolio */

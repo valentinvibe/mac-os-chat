@@ -1,0 +1,12 @@
+.dialog__filter-text {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.dialog__filter-text::before {
+    
+}
+
+.dialog__filter-text::after {
+    
+}
