@@ -2,3 +2,17 @@
   height: 80vh;
   overflow-y: scroll;
 }
+
+.dialog::-webkit-scrollbar {
+  width: 10px;
+}
+
+.dialog::-webkit-scrollbar-track {
+  background: rgba(153, 153, 153, 0.25);
+}
+
+.dialog::-webkit-scrollbar-thumb {
+  background-color: rgba(43,43,43,.25);    /* цвет плашки */
+  border-radius: 20px;       /* закругления плашки */
+  /* border: 3px solid rgba(170, 168, 168, 0.95);  */
+}

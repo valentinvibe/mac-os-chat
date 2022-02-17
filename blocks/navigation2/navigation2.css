@@ -5,3 +5,17 @@
     max-height: 100vh;
     overflow-y: scroll;
 }
+
+.navigation2::-webkit-scrollbar {
+    width: 10px;
+}
+
+.navigation2::-webkit-scrollbar-track {
+    background: rgba(153, 153, 153, 0.25);
+}
+
+.navigation2::-webkit-scrollbar-thumb {
+    background-color: rgba(212, 212, 212, 0.25);    /* цвет плашки */
+    border-radius: 20px;       /* закругления плашки */
+    /* border: 3px solid rgba(170, 168, 168, 0.35);  */
+}
